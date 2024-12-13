@@ -2,7 +2,6 @@
 **Blockchain & Fullstack Developer**
 
 - 🌍 Based in Berlin, Germany
-- 🕒 Current local time: 14:00 (UTC +01:00)
 - 🐦 Follow me on X: [@SwanEXENBC](https://twitter.com/SwanEXENBC)
 
 ## 🔧 Technologies & Tools
@@ -34,5 +33,5 @@
 
 ## 📫 Contact Me
 
-- Email: [suwandre@example.com](mailto:suwandre@example.com)
+- Email: [suwandre@nbcompany.io](mailto:suwandre@nbcompany.io)
 - LinkedIn: [Suwandre](https://www.linkedin.com/in/suwandre/)
