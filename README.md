@@ -7,13 +7,18 @@
 ## 🔧 Technologies & Tools
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
 
