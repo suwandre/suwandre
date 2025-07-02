@@ -1,8 +1,8 @@
-**Co-Founder at [NotBoringCompany](https://nbcompany.io/)**  
 **Blockchain & Fullstack Developer**
+**Co-Founder at [NotBoringCompany](https://nbcompany.io/)**  
 
 - 🌍 Based in Berlin, Germany
-- 🐦 Follow me on X: [@SwanEXENBC](https://twitter.com/SwanEXENBC)
+- 🐦 Follow me on X: [@jdogels](https://twitter.com/jdogels)
 
 ## 🔧 Technologies & Tools
 
