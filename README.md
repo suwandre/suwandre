@@ -4,6 +4,10 @@
 - 🌍 Based in Berlin, Germany
 - 🐦 Follow me on X: [@jdogels](https://twitter.com/jdogels)
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suwandre&theme=radical)
+
 ## 🔧 Technologies & Tools
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
@@ -23,10 +27,6 @@
 ## 📈 GitHub Stats
 
 ![Suwandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suwandre&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suwandre&theme=radical)
 
 ## 📊 Top Languages
 
