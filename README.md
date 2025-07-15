@@ -1,5 +1,4 @@
-**Blockchain & Fullstack Developer**
-**Co-Founder at [NotBoringCompany](https://nbcompany.io/)**  
+**Fullstack & Blockchain Developer || Co-Founder at [NotBoringCompany](https://nbcompany.io/)**  
 
 - 🌍 Based in Berlin, Germany
 - 🐦 Follow me on X: [@jdogels](https://twitter.com/jdogels)
