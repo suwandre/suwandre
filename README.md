@@ -37,5 +37,5 @@
 
 ## 📫 Contact Me
 
-- Email: [suwandre@nbcompany.io](mailto:suwandre@nbcompany.io)
+- Email: [suwandresukijat@gmail.com](mailto:suwandresukijat@gmail.com)
 - LinkedIn: [Suwandre](https://www.linkedin.com/in/suwandre/)
