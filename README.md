@@ -57,11 +57,11 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=suwandre&theme=radical)
+![GitHub Streak](https://github-readme-stats-lnl73q20c-swandogels.vercel.app?user=suwandre&theme=radical)
 
 ## 📈 GitHub Stats
 
-![Suwandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suwandre&show_icons=true&theme=radical)
+![Stats](https://YOUR-APP.vercel.app/api?username=suwandre&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
 
