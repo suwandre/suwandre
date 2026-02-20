@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Fullstack+%26+Blockchain+Developer;Sr.+Backend+%26+Blockchain+Engineer+%40+STOKR;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;Building+in+Web3+%26+DeFi" alt="Typing SVG" />
 </p>
 
-**Fullstack & Blockchain Developer || Backend & Blockchain Developer at [STOKR](https://stokr.io/)**
+**Fullstack & Blockchain Developer || Sr. Backend & Blockchain Developer at [STOKR](https://stokr.io/)**
 
 - 🌍 Based in Berlin, Germany.
 - 🔗 Building in FinTech and Web3.
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,go,solidity,nodejs,nestjs,express,react,nextjs,vite,mongodb,postgres,redis,docker,kubernetes,aws,github,git,postman,vscode&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,go,solidity,nodejs,nestjs,express,fastapi,actix,axum,fiber,fastify,react,nextjs,vite,mongodb,postgres,redis,docker,kubernetes,aws,github,git,postman,vscode&perline=11)](https://skillicons.dev)
 
 <details>
 <summary>📋 Full badge list</summary>
@@ -31,6 +31,11 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-404d59?style=flat&logo=express&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
+![Actix](https://img.shields.io/badge/-Actix-000000?style=flat&logo=actix&logoColor=white)
+![Axum](https://img.shields.io/badge/-Axum-000000?style=flat&logo=rust&logoColor=white)
+![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
