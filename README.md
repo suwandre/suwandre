@@ -61,7 +61,7 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats-swandogels.vercel.app/api?username=suwandre)
+![Stats](https://github-readme-stats-swandogels.vercel.app/api?username=suwandre&show_icons=true&theme=radical&v=1)
 
 ## 📊 Top Languages
 
