@@ -7,10 +7,10 @@
 
 **Fullstack & Blockchain Developer || Backend & Blockchain Developer at [STOKR](https://stokr.io/)**
 
-- 🌍 Based in Berlin, Germany
-- 🔗 Building in Web3, DeFi & fintech
+- 🌍 Based in Berlin, Germany.
+- 🔗 Building in FinTech and Web3.
 - 🐦 X: [@jdogels](https://twitter.com/jdogels)
-- 💼 Open to collaborations on DeFi & trading automation
+- 💼 Open to collaborations and opportunities.
 
 ---
 
