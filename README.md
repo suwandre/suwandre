@@ -61,11 +61,11 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://YOUR-APP.vercel.app/api?username=suwandre&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-lnl73q20c-swandogels.vercel.app/api?username=suwandre&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suwandre&layout=compact&theme=radical)
+![Langs](https://github-readme-stats-lnl73q20c-swandogels.vercel.app/api/top-langs/?username=suwandre&layout=compact&theme=radical)
 
 ## 📉 Activity Graph
 
