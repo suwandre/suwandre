@@ -19,7 +19,7 @@
 <!-- Main skill icons (all confirmed working) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,rust,go,solidity,nodejs,nestjs,express,fastapi,react,nextjs,vite,mongodb,postgres,redis,docker,kubernetes,aws,github,git,postman,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=axum,actix,fiber,fastify,ts,js,rust,go,solidity,nodejs,nestjs,express,fastapi,react,nextjs,vite,mongodb,postgres,redis,docker,kubernetes,aws,github,git,postman,vscode&perline=11" />
   </a>
 </p>
 
