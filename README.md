@@ -54,6 +54,9 @@
 </details>
 
 ---
+## 📊 Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suwandre&theme=radical&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 🔥 Streak Stats
 
