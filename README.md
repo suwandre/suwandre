@@ -16,7 +16,20 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,go,solidity,nodejs,nestjs,express,fastapi,actix,axum,fiber,fastify,react,nextjs,vite,mongodb,postgres,redis,docker,kubernetes,aws,github,git,postman,vscode&perline=11)](https://skillicons.dev)
+<!-- Main skill icons (all confirmed working) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,rust,go,solidity,nodejs,nestjs,express,fastapi,react,nextjs,vite,mongodb,postgres,redis,docker,kubernetes,aws,github,git,postman,vscode&perline=11" />
+  </a>
+</p>
+
+<!-- Frameworks without skillicons support -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Axum-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Actix-000000?style=flat&logo=actix&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white" />
+</p>
 
 <details>
 <summary>📋 Full badge list</summary>
