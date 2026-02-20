@@ -61,7 +61,7 @@
 
 ## 📈 GitHub Stats
 
-![Metrics](https://metrics.j180.be/suwandre/api?template=classic&config_timezone=Europe/Berlin.png)
+![Stats](https://github-readme-stats-swandogels.vercel.app/api?username=suwandre&show_icons=true&theme=radical&cache_seconds=1800&refresh=1)
 
 ## 📊 Top Languages
 
