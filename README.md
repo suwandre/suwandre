@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=suwandre&label=Profile+views&color=F97316&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Fullstack+%26+Blockchain+Developer;Backend+Engineer+%40+STOKR;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;Building+in+Web3+%26+DeFi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Fullstack+%26+Blockchain+Developer;Sr.+Backend+%26+Blockchain+Engineer+%40+STOKR;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;Building+in+Web3+%26+DeFi" alt="Typing SVG" />
 </p>
 
 **Fullstack & Blockchain Developer || Backend & Blockchain Developer at [STOKR](https://stokr.io/)**
