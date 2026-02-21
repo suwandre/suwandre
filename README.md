@@ -71,21 +71,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=suwandre&theme=radical)
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats-swandogels.vercel.app/api?username=suwandre&show_icons=true&theme=radical&cache_seconds=1800&refresh=1)
-
-## 📊 Top Languages
-
-![Langs](https://github-readme-stats-swandogels.vercel.app/api/top-langs/?username=suwandre&layout=compact&theme=radical&cache_seconds=1800&refresh=1)
-
 ## 📉 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suwandre&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=suwandre&theme=radical&no-frame=true&row=1&column=7)
 
 ## 🐍 Contributions
 
