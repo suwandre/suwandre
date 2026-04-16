@@ -2,10 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=suwandre&label=Profile+views&color=F97316&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Fullstack+%26+Blockchain+Developer;Sr.+Backend+%26+Blockchain+Engineer+%40+STOKR;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;Building+in+FinTech+%26+Web3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Fullstack+%26+Blockchain+Developer;Senior+Backend+Engineer+%40+Peec+AI;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;Building+in+FinTech+%26+Web3" alt="Typing SVG" />
 </p>
 
-**Fullstack & Blockchain Developer || Sr. Backend & Blockchain Developer at [STOKR](https://stokr.io/)**
+**Senior Backend Engineer at [Peec AI](https://peec.ai/)**
 
 - 🌍 Based in Berlin, Germany
 - 🔗 Building in FinTech and Web3
