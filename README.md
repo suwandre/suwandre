@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=suwandre&label=Profile+views&color=F97316&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Fullstack+%26+Blockchain+Developer;Senior+Backend+Engineer+%40+Peec+AI;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;AI+in+FinTech+%26+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Fullstack+%26+Blockchain+Developer;Senior+Backend+%26+DevOps+Engineer+%40+Navera;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;AI+in+FinTech+%26+Blockchain" alt="Typing SVG" />
 </p>
 
 **Senior Backend & DevOps Engineer at [Navera](https://navera.de/)**
