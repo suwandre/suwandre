@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,react,nextjs,vite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,fastapi,react,nextjs,vite&perline=8" />
   </a>
 </p>
 
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Actix-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elysia-000000?style=flat&logo=elysia&logoColor=white" />
 </p>
 
 ### Data & Infrastructure
@@ -81,6 +82,7 @@
 #### Backend & Frameworks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-404d59?style=flat&logo=express)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
@@ -91,6 +93,7 @@
 ![Actix](https://img.shields.io/badge/-Actix-000000?style=flat&logo=rust&logoColor=white)
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Elysia](https://img.shields.io/badge/-Elysia-000000?style=flat&logo=elysia&logoColor=white)
 
 #### Data & Infrastructure
 
