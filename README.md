@@ -130,9 +130,21 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suwandre&theme=radical&hide_border=true)
 
-## 📉 Activity Graph
+## 📊 Activity & Distribution
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suwandre&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suwandre&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suwandre&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suwandre&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suwandre&theme=github_dark&utcOffset=2" />
+
+</div>
 
 ## 🐍 Contributions
 
