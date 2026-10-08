@@ -1,89 +1,380 @@
-<!-- Profile views + header -->
-![](https://komarev.com/ghpvc/?username=suwandre&label=Profile+views&color=F97316&style=flat)
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Senior+Backend+%26+DevOps+Engineer+%40+Navera;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity;AI+in+FinTech+%26+Blockchain" alt="Typing SVG" />
-</p>
+# SUWANDRE
 
-**Senior Backend & DevOps Engineer at [Navera](https://navera.de/)**
+### Senior Backend & DevOps Engineer @ [Navera](https://navera.de/)
 
-- 🌍 Based in Berlin, Germany
-- 🔗 AI, FinTech, Blockchain
-- 🐦 X: [@jdogels](https://twitter.com/jdogels)
+**AI · Systems · FinTech · Blockchain · Quantitative Software**
 
----
+Berlin, Germany · Building backend systems, developer infrastructure, AI tooling and quantitative software.
 
-## 🛠️ Tech Stack
+<br />
 
-<!-- Main skill icons (all confirmed working) -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=actix,ts,js,rust,go,solidity,nodejs,nestjs,express,fastapi,react,nextjs,vite,mongodb,postgres,redis,docker,kubernetes,aws,github,git,postman,vscode&perline=11" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=suwandre&label=Profile%20Views&color=F97316&style=for-the-badge)](https://github.com/suwandre)
+[![Followers](https://img.shields.io/github/followers/suwandre?style=for-the-badge&label=Followers)](https://github.com/suwandre?tab=followers)
+[![Stars](https://img.shields.io/github/stars/suwandre?affiliations=OWNER&style=for-the-badge&label=Stars)](https://github.com/suwandre?tab=repositories)
 
-<!-- Frameworks without skillicons support -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-Axum-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white" />
-</p>
-
-<details>
-<summary>📋 Full badge list</summary>
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![Express.js](https://img.shields.io/badge/-Express.js-404d59?style=flat&logo=express&logoColor=61DAFB)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
-![Actix](https://img.shields.io/badge/-Actix-000000?style=flat&logo=actix&logoColor=white)
-![Axum](https://img.shields.io/badge/-Axum-000000?style=flat&logo=rust&logoColor=white)
-![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0167ff?style=flat&logo=digitalocean)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
-</details>
+</div>
 
 ---
 
-## 🔥 Streak Stats
+## ⚡ Engineering Snapshot
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=suwandre&theme=radical)
+<table>
+<tr>
+<td align="center" width="25%">
 
-## 📉 Activity Graph
+### 🧠
+**AI / Agents**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suwandre&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Coding agents, harnesses, model routing, benchmarking, decision systems
 
-## 🐍 Contributions
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**Systems**
+
+Backend architecture, performance, distributed systems, infrastructure
+
+</td>
+<td align="center" width="25%">
+
+### 📈
+**FinTech / Quant**
+
+Trading research, market data, simulation, metrics and financial tooling
+
+</td>
+<td align="center" width="25%">
+
+### ⛓️
+**Blockchain**
+
+Smart contracts, EVM, Solana and Web3 infrastructure
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 Current Focus
+
+```text
+AI SYSTEMS
+├── Coding agents & agent harnesses
+├── Model routing & selection
+├── Decision systems
+├── Context / memory systems
+├── Benchmarking & evaluation
+└── Local & hosted inference
+
+SYSTEMS ENGINEERING
+├── High-throughput APIs
+├── Performance engineering
+├── Distributed systems
+├── Observability
+├── Caching / queues
+└── Infrastructure automation
+
+QUANTITATIVE SOFTWARE
+├── Trading research
+├── Market data pipelines
+├── Strategy simulation
+├── Cost / performance analysis
+└── Financial infrastructure
+```
+
+---
+
+# 🚀 Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [TrueForge](https://github.com/suwandre/trueforge)
+
+**AI / Agent Infrastructure**
+
+An agent execution runtime covering model calls, MCP tools, skills, sandboxing, approvals, context management and session state.
+
+`TypeScript` · `AI` · `Agents` · `MCP`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Codex Metrics](https://github.com/suwandre/codex-metrics)
+
+**Developer Analytics**
+
+A local dashboard for analyzing Codex JSONL sessions, usage and development telemetry.
+
+`TypeScript` · `Bun` · `Vite` · `Metrics`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [FantasyMarket API](https://github.com/suwandre/fantasymarket-api)
+
+**Market Simulation Backend**
+
+Backend infrastructure for a stock-market simulation with a continuously running market, events and simulated trading.
+
+`Go` · `REST` · `SQLite`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [FantasyMarket App](https://github.com/suwandre/fantasymarket-app)
+
+**Market Simulation Frontend**
+
+Interactive frontend for the FantasyMarket trading simulation, including charts, trading views and automated tests.
+
+`React` · `Next.js` · `TypeScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [NBC Smart Contracts](https://github.com/suwandre/nbc-smart-contracts)
+
+**Blockchain Engineering**
+
+Smart-contract development and experimentation using the Ethereum / Hardhat ecosystem.
+
+`Solidity` · `Ethereum` · `Hardhat`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Ollama Metrics](https://github.com/suwandre/ollama-metrics)
+
+**Inference Analytics**
+
+Experiments and tooling around local LLM inference and model performance telemetry.
+
+`TypeScript` · `Next.js` · `LLM`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Telemetry
+
+<div align="center">
+
+<a href="https://github.com/suwandre">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=suwandre&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/suwandre">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwandre&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=suwandre&theme=github-dark-blue&hide_border=true)](https://github.com/suwandre)
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+[![Suwandre Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suwandre&theme=github-compact&hide_border=true&area=true)](https://github.com/suwandre)
+
+</div>
+
+---
+
+# 🧬 Technical Stack
+
+## Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,go,python,solidity&perline=6" />
+</p>
+
+## Backend & Application
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,react,nextjs,vite&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+</p>
+
+## Data & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,digitalocean,githubactions&perline=8" />
+</p>
+
+## Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&perline=5" />
+</p>
+
+---
+
+# 🧠 Engineering Interests
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Artificial Intelligence
+
+- Coding agents
+- Agent harnesses
+- Model routing
+- LLM evaluation
+- Inference infrastructure
+- Context engineering
+- Developer tooling
+
+</td>
+<td width="33%" valign="top">
+
+### Quantitative Systems
+
+- Algorithmic trading
+- Market simulation
+- Market data
+- Strategy evaluation
+- Financial infrastructure
+- Cost / performance analysis
+
+</td>
+<td width="33%" valign="top">
+
+### Systems Engineering
+
+- High-throughput APIs
+- Distributed systems
+- Performance
+- Observability
+- Caching
+- Queues / workers
+- Reliability
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📐 Engineering Philosophy
+
+> **Measure first. Optimize second. Automate third.**
+
+I like engineering problems where performance and correctness can be measured rather than guessed.
+
+Latency. Throughput. Memory. Cost. Token usage. Failure rates. Test pass rates. Reliability. Operational complexity.
+
+```text
+OBSERVE
+   ↓
+MEASURE
+   ↓
+ANALYZE
+   ↓
+EXPERIMENT
+   ↓
+OPTIMIZE
+   ↓
+AUTOMATE
+   ↺
+```
+
+---
+
+# 🗺️ Engineering Evolution
+
+```text
+2022 ── Backend / Web
+       APIs · databases · web applications
+
+2023 ── Blockchain / FinTech
+       smart contracts · Web3 · market software
+
+2024 ── Systems / Quant
+       infrastructure · trading research · performance
+
+2025 ── AI / LLMs
+       inference · developer tooling · model experimentation
+
+2026 ── AI Systems
+       coding agents · harnesses · model routing
+       decision systems · benchmarking · AI infrastructure
+```
+
+---
+
+# 📚 Portfolio Map
+
+| Area | Selected repositories / work |
+|---|---|
+| 🤖 AI / Developer Tooling | `trueforge`, `codex-metrics`, `ollama-metrics` |
+| ⚙️ Backend / Systems | APIs, infrastructure and performance-focused projects |
+| 📈 FinTech / Quant | `fantasymarket-api`, `fantasymarket-app` and trading research |
+| ⛓️ Blockchain | `nbc-smart-contracts`, Solidity / Solana experiments |
+| 🧪 Research | benchmarking, telemetry, inference and engineering experiments |
+
+---
+
+# 🐍 Contribution Matrix
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/suwandre/suwandre/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://github.com/suwandre/suwandre/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suwandre/suwandre/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suwandre/suwandre/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/suwandre/suwandre/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
 
 ---
 
-## 📫 Contact
+# 🌐 Connect
 
-- Email: [suwandresukijat@gmail.com](mailto:suwandresukijat@gmail.com)
-- LinkedIn: [Suwandre](https://www.linkedin.com/in/suwandre/)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suwandre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suwandre/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jdogels)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suwandresukijat@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### `Build → Measure → Learn → Repeat`
+
+<sub>Engineering profile · continuously evolving</sub>
+
+</div>
